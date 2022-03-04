@@ -25,7 +25,7 @@
 * echo 'export PATH=~/.npm-global/bin:$PATH' >> ~/.profile
 * npm install -g edge-impulse-cli
 
-# final 
+# Final 
 * sudo apt install screen
 
 # Connect the optional camera, sensor, extension board, Wi-Fi add-ons, and SD card
