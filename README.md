@@ -1,7 +1,8 @@
 # SAFEWALK-SENSOR
-
+#       Project lead: Prof.N.Sudha
+#       Developers: Ashwin.R(B.Tech ECE),Venkatesh(M.Tech AI-DS)
 # Can run in any operating system 
-# Better to run in linux mint if not there install linux mint in virtual box
+* Better to run in linux mint if not there install linux mint in virtual box
 
 # Linux mint installation 
 * Refer: https://itsfoss.com/install-linux-mint-in-virtualbox/
